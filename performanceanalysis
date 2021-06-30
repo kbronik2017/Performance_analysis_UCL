@@ -1,16 +1,13 @@
 #!/bin/bash
-#   Copyright (C) 2016 University of Oxford
-#   Part of FSL - FMRIB's Software Library
-#   http://www.fmrib.ox.ac.uk/fsl
-#   fsl@fmrib.ox.ac.uk
+#   Copyright (C) 2019 UCL. Kevin Bronik
 #   
-#   Originally developed at FMRIB (Oxford Centre for Functional Magnetic Resonance
-#   Imaging of the Brain), Department of Clinical Neurology, Oxford
-#   University, Oxford, UK
+#   
+#   
 #   
 #   Modified at  Department of Medical Physics and Biomedical Engineering 
 #   Modified (2019)
 #   University, UCL, UK
+
 #
 #
 #   This software/script  calculates all the following important performance metrics:
@@ -35,8 +32,9 @@
 #   Volume of segmentation
 #   Volume of manual mask
 
-
-
+# Originally developed at FMRIB (Oxford Centre for Functional Magnetic Resonance
+#   Imaging of the Brain), Department of Clinical Neurology, Oxford
+#   University, Oxford, UK
 
 export LC_ALL=C
 #set -e
