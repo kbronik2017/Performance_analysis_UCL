@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2019 UCL
+#   Copyright (C) 2019 UCL Kevin Bronik
 # 
 #   Developed at  Department of Medical Physics and Biomedical Engineering 
 #   University, UCL, UK
