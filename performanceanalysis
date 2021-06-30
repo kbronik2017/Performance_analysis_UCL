@@ -4,8 +4,8 @@
 #   
 #   
 #   
-#   Modified at  Department of Medical Physics and Biomedical Engineering 
-#   Modified (2019)
+#   Department of Medical Physics and Biomedical Engineering 
+#   (2019)
 #   University, UCL, UK
 
 #
@@ -32,7 +32,9 @@
 #   Volume of segmentation
 #   Volume of manual mask
 
-# Originally developed at FMRIB (Oxford Centre for Functional Magnetic Resonance
+
+#   This program uses piece of source code from:
+#   Originally developed code at FMRIB (Oxford Centre for Functional Magnetic Resonance
 #   Imaging of the Brain), Department of Clinical Neurology, Oxford
 #   University, Oxford, UK
 
