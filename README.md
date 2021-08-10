@@ -1,3 +1,10 @@
+[![GitHub issues](https://img.shields.io/github/issues/kbronik2017/Performance_analysis_UCL)](https://github.com/kbronik2017/Performance_analysis_UCL/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kbronik2017/Performance_analysis_UCL)](https://github.com/kbronik2017/Performance_analysis_UCL/network)
+[![GitHub stars](https://img.shields.io/github/stars/kbronik2017/Performance_analysis_UCL)](https://github.com/kbronik2017/Performance_analysis_UCL/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kbronik2017/Performance_analysis_UCL)](https://github.com/kbronik2017/Performance_analysis_UCL/blob/master/LICENSE)
+
+
+
 # Performance Analysis Tool
 
 This software  calculates all the following important performance metrics 
